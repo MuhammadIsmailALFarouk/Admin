@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56938656225",
+    "firebase_url": "https://pb-12-3b9cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pb-12-3b9cb",
+    "storage_bucket": "pb-12-3b9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56938656225:android:8022b6b718c23db39ca2a0",
+        "android_client_info": {
+          "package_name": "com.example.manajemenklubolahraga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56938656225-cg9p5lsvmisjvlcb2nslncfcec7p06m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgp9cxsMZIzae0t2BjNHB7hHKVqUVConc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56938656225-cg9p5lsvmisjvlcb2nslncfcec7p06m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
